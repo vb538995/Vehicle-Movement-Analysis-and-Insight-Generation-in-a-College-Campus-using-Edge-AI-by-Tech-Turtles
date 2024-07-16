@@ -5,6 +5,14 @@ Python project analyzing vehicle movement in college campus using edge AI. Provi
 This repository contains a Python-based project that analyzes vehicle movement within a college campus using edge AI. The system provides insights such as vehicle counts, traffic flow, parking availability, and potential congestion areas by processing video feeds. It employs computer vision, machine learning, and edge AI technologies for real-time analysis and offers potential campus planning, traffic management, and security applications.
 
 
+
+**Team Members**
+
+1. Vaibhav Kumar Bhardwaj
+2. Shouvik Ghosh
+3. Priyanshi Tiwari
+
+   
 **Key Features:**
 
 
